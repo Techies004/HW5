@@ -1,0 +1,5 @@
+{
+    "operation": "PUT",
+    "tableName": "MyTable1",
+    "Key": {"id":"100"}
+}
